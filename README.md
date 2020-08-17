@@ -5,3 +5,4 @@ Given the abstract and title for a set of research articles, predict the topics 
 Computer Science, Physics, Mathematics, Statistics, Quantitative Biology, Quantitative Finance
 3) First LSTM model is trained and 0.81 F1 score is achieved.
 4) A ROBERTa transformer is trained with 3 epochs and 0.83 F1 score is achieved.
+5) Rank - 15th out of 158 teams
